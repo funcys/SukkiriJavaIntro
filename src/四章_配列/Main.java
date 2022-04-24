@@ -5,6 +5,7 @@ public class Main {
 		int x;
 		System.out.println(x);
 		//テスト
+		//テストコミット2回目
 
 	}
 }
